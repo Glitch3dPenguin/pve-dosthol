@@ -1,5 +1,6 @@
 # pve-dosthol
 WakeOnLAN (WOL) and more for ProxmoxVE w/o Python
+This fork is designed to only work on the Kulik Labs Devolopment servers. 
 
 See: https://forum.proxmox.com/threads/update-wake-and-other-on-lan-for-vms-v0-3.26381/
 

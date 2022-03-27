@@ -1,7 +1,9 @@
 #!/bin/bash
 
+# This edit is for the Kulik Lab Devolopment Servers
+
 # dosthol - Do something on LAN
-#	Skript to do something with remote virtual machines
+#	Script to do something with remote virtual machines
 #	Written primarily for Proxmox VE >=v4.x
 #
 # Author: Oliver Jaksch <proxmox-forum@com-in.de>
