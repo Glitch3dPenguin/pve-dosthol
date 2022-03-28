@@ -27,8 +27,11 @@ Set up Container/VM to shutdown when the Guacamole connection is closed:
         if [ "$PAM_TYPE" = "close_session" ]; then
           shutdown -h 0 SHUTDOWN
         fi
+
 `chmod a+x pam_session.sh`
+
 3.  Now make sure to set up Apache Guacamole properly this is an example based off the KLabsDev servers:
+4.  
 ![](https://share.klabsdev.com/files//mbtKmDa.png)
 
 
